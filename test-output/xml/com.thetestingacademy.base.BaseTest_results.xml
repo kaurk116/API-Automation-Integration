@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="/home/karam/Documents/API_Automation_ATB6x"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.363">
+    <properties></properties>
+
+
+
+            <testcase
+                name="setUp"
+                time="1.363"
+                classname="com.thetestingacademy.base.BaseTest">
+            </testcase>
+</testsuite>
