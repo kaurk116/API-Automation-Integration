@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="API_Automation_Testing"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="31.583">
+    <properties></properties>
+
+
+
+            <testcase
+                name="TestCreateABooking"
+                time="13.645"
+                classname="com.thetestingacademy.tests.Integration.TCIntegration">
+            </testcase>
+            <testcase
+                name="TestUpdateABooking"
+                time="4.991"
+                classname="com.thetestingacademy.tests.Integration.TCIntegration">
+            </testcase>
+            <testcase
+                name="TestDeleteABooking"
+                time="4.960"
+                classname="com.thetestingacademy.tests.Integration.TCIntegration">
+            </testcase>
+            <testcase
+                name="TestVerifyABooking"
+                time="6.869"
+                classname="com.thetestingacademy.tests.Integration.TCIntegration">
+            </testcase>
+            <testcase
+                name="setUp"
+                time="1.118"
+                classname="com.thetestingacademy.tests.Integration.TCIntegration">
+            </testcase>
+</testsuite>

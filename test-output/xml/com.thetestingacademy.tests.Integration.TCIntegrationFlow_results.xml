@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="/home/karam/Documents/API_Automation_ATB6x"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.981">
+    <properties></properties>
+
+
+
+            <testcase
+                name="TestCreateABooking"
+                time="4.955"
+                classname="com.thetestingacademy.tests.Integration.TCIntegrationFlow">
+            </testcase>
+            <testcase
+                name="TestUpdateABooking"
+                time="0.004"
+                classname="com.thetestingacademy.tests.Integration.TCIntegrationFlow">
+            </testcase>
+            <testcase
+                name="setUp"
+                time="0.007"
+                classname="com.thetestingacademy.tests.Integration.TCIntegrationFlow">
+            </testcase>
+            <testcase
+                name="TestDeleteABooking"
+                time="0.004"
+                classname="com.thetestingacademy.tests.Integration.TCIntegrationFlow">
+            </testcase>
+            <testcase
+                name="TestVerifyABooking"
+                time="0.011"
+                classname="com.thetestingacademy.tests.Integration.TCIntegrationFlow">
+            </testcase>
+</testsuite>
