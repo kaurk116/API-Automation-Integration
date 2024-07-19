@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="/home/karam/Documents/API_Automation_ATB6x"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.548">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testVWoLoginTC"
+                time="4.086"
+                classname="com.thetestingacademy.tests.ddt.vwo_loginAPITC">
+            </testcase>
+            <testcase
+                name="testVWoLoginTC"
+                time="0.462"
+                classname="com.thetestingacademy.tests.ddt.vwo_loginAPITC">
+            </testcase>
+</testsuite>

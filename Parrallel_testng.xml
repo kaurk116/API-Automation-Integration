@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite" parallel="methods" thread-count="2">
+    <test verbose="2" name="MainClass1_RumMethod">
+        <classes>
+            <class name="com.thetestingacademy.Misc.Parrallel.MainClass1">
+            </class>
+        </classes></test>
+    <test verbose="2" name="MainClass2_RumMethod">
+        <classes>
+            <class name="com.thetestingacademy.Misc.Parrallel.MainClass2">
+            </class>
+        </classes></test>
+</suite>
